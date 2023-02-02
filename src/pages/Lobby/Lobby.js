@@ -1,10 +1,6 @@
 import React from "react";
 
 function Lobby() {
-  return (
-    <div>
-      <div>lobby</div>
-    </div>
-  );
+  return <h1>Team.계람.</h1>;
 }
 export default Lobby;
